@@ -5,5 +5,4 @@ praatio
 pandas
 pydub
 soundfile
-praat-parselsouth
 matplotlib
