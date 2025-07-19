@@ -1,5 +1,6 @@
 # Data
 data/
+*.wav
 jobscripts/
 
 # Byte-compiled / optimized / DLL files
