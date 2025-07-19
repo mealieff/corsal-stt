@@ -1,0 +1,9 @@
+transformers
+librosa
+torch
+praatio
+pandas
+pydub
+soundfile
+praat-parselsouth
+matplotlib
