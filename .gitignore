@@ -1,5 +1,6 @@
 # Data
 data/
+jobscripts/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
