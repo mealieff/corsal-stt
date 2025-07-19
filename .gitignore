@@ -1,6 +1,7 @@
 # Data
 data/
 *.wav
+corsal_boro_subset/
 jobscripts/
 
 # Byte-compiled / optimized / DLL files
