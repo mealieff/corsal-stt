@@ -27,3 +27,4 @@ for file in os.listdir(directory):
         prediction = torch.argmax(logits, dim=-1)
         transcription = tokenizer.batch_decode(prediction)
         print(f"{file}: {transcription[0]}")
+
