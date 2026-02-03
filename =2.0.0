@@ -1,0 +1,7 @@
+Requirement already satisfied: transformers in ./venv/lib/python3.6/site-packages (4.18.0)
+Collecting datasets
+  Downloading datasets-2.4.0-py3-none-any.whl (365 kB)
+Collecting torchaudio
+  Downloading torchaudio-0.10.1-cp36-cp36m-manylinux1_x86_64.whl (2.9 MB)
+Collecting jiwer
+  Using cached jiwer-2.3.0-py3-none-any.whl (15 kB)
