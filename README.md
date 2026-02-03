@@ -92,15 +92,6 @@ pip install -r requirements.txt
 pip install transformers>=4.30.0 datasets>=2.14.0 torchaudio>=2.0.0
 ```
 
-**Quick Setup Script (venv)**
-
-Alternatively, use the provided setup script:
-
-```bash
-bash setup_venv.sh
-```
-
-This will create a `venv` directory and install all dependencies automatically.
 
 ## Data Preparation
 
